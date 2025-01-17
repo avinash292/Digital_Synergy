@@ -1,0 +1,138 @@
+[
+    {
+        "fontFamily": "Allura",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "src": "./Allura-Regular.ttf"
+    },{
+        "fontFamily": "Montserrat",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "src": "./Montserrat-Regular.ttf"
+    },{
+        "fontFamily": "Montserrat black",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "src": "./Montserrat-Black.ttf"
+    },{
+        "fontFamily": "Montserrat black",
+        "fontWeight": "normal",
+        "fontStyle": "italic",
+        "src": "./Montserrat-BlackItalic.ttf"
+    },{
+        "fontFamily": "Montserrat",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "src": "./Montserrat-Bold.ttf"
+    },{
+        "fontFamily": "Montserrat",
+        "fontWeight": "bold",
+        "fontStyle": "italic",
+        "src": "./Montserrat-BoldItalic.ttf"
+    },{
+        "fontFamily": "Montserrat extra",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "src": "./Montserrat-ExtraBold.ttf"
+    },{
+        "fontFamily": "Montserrat extra",
+        "fontWeight": "bold",
+        "fontStyle": "italic",
+        "src": "./Montserrat-ExtraBoldItalic.ttf"
+    },{
+        "fontFamily": "Montserrat extra",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "src": "./Montserrat-ExtraBold.ttf"
+    },{
+        "fontFamily": "Montserrat",
+        "fontWeight": "normal",
+        "fontStyle": "italic",
+        "src": "./Montserrat-Italic.ttf"
+    },{
+        "fontFamily": "Montserrat black",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "src": "./Montserrat-Black.ttf"
+    },{
+        "fontFamily": "open sans",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "src": "./OpenSans-Regular.ttf"
+    },{
+        "fontFamily": "open sans",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "src": "./OpenSans-Bold.ttf"
+    },{
+        "fontFamily": "open sans",
+        "fontWeight": "bold",
+        "fontStyle": "italic",
+        "src": "./OpenSans-BoldItalic.ttf"
+    },{
+        "fontFamily": "open sans",
+        "fontWeight": 800,
+        "fontStyle": "normal",
+        "src": "./OpenSans-ExtraBold.ttf"
+    },{
+        "fontFamily": "open sans bolder",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "src": "./OpenSans-ExtraBold.ttf"
+    },{
+        "fontFamily": "lato",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "src": "./Lato-Regular.ttf"
+    },{
+        "fontFamily": "lato",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "src": "./Lato-Bold.ttf"
+    },{
+        "fontFamily": "lato",
+        "fontWeight": "normal",
+        "fontStyle": "italic",
+        "src": "./Lato-Italic.ttf"
+    },{
+        "fontFamily": "lato",
+        "fontWeight": "bold",
+        "fontStyle": "italic",
+        "src": "./Lato-BoldItalic.ttf"
+    },{
+        "fontFamily": "lato",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "src": "./Lato-Black.ttf"
+    },{
+        "fontFamily": "lato bolder",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "src": "./Lato-Black.ttf"
+    },{
+        "fontFamily": "Roboto",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "src": "./Roboto-Regular.ttf"
+    },{
+        "fontFamily": "Roboto",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "src": "./Roboto-Bold.ttf"
+    },{
+        "fontFamily": "Roboto",
+        "fontWeight": "normal",
+        "fontStyle": "italic",
+        "src": "./Roboto-Italic.ttf"
+    },{
+        "fontFamily": "Roboto",
+        "fontWeight": "bold",
+        "fontStyle": "italic",
+        "src": "./Roboto-BoldItalic.ttf"
+    },{
+        "fontFamily": "Great Vibes",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "src": "./GreatVibes-Regular.ttf"
+    }
+]
